@@ -13,8 +13,8 @@
 #define GREENLED_PIN D4
 #define REDLED_PIN D3
 
-#define WIFI_SSID "LABS-LSD"
-#define WIFI_PASSWORD "aulaslsd"
+#define WIFI_SSID "ssid"
+#define WIFI_PASSWORD "password"
 
 #define API_KEY "API_KEY"
 #define DATABASE_URL "DATABASE_URL"
