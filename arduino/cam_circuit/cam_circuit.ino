@@ -11,8 +11,8 @@
 //Provide the token generation process info.
 #include <addons/TokenHelper.h>
 //Replace with your network credentials
-const char* ssid = "LABS-LSD";
-const char* password = "aulaslsd";
+const char* ssid = "ssid";
+const char* password = "password";
 // Insert Firebase project API Key
 #define API_KEY "API_KEY"
 #define STORAGE_BUCKET_ID "STORAGE_BUCKET_ID"
